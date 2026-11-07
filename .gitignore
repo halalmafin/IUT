@@ -1,0 +1,12 @@
+*.exe
+*.out
+*.o
+.DS_Store
+
+new
+new.dSYM/
+
+.vscode/
+
+*.dSYM
+Ch3.1
